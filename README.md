@@ -17,3 +17,5 @@ To enhance point cloud detail and accuracy by replacing the standard self-attent
 
 ## 📌 Status
 🟡 *Project ongoing – Initial analysis and integration in progress.*
+
+This project is being developed by [Soham Shrivastava](https://github.com/SohamShrivastava) and [Arin Mehta](https://github.com/ArinMehta) as part of an academic initiative at IIT Gandhinagar under the guidance of Prof. Shanmuganathan Raman.
